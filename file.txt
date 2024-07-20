@@ -11,3 +11,10 @@ rm -rf .git ->it will delete your git file
 
 if i want to track the file by git then we have to add that file into staging area
 git add file_name or git add .(to add all file)
+
+if you want to know all commit 
+git log
+
+whatever we do, that will be in working directory so we have to send in staging area
+
+everytime you change ,add into staging area then do commit
