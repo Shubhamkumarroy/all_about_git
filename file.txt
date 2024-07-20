@@ -18,3 +18,5 @@ git log
 whatever we do, that will be in working directory so we have to send in staging area
 
 everytime you change ,add into staging area then do commit
+for without staging to commit the use this command
+git commit -a -m "added line 21 and 22"
