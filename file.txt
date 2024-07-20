@@ -1,0 +1,13 @@
+git config
+git config --global --list ->will know name and email of person who commit the code
+git config --global user.name "shubham"
+git config --global user.email "shubham.kumar3@1mg.com
+staging area and commit history
+git status
+git init ->it will be in master branch but we want to use main so
+git init -b main
+ls -la ->check which file is there or not
+rm -rf .git ->it will delete your git file
+
+if i want to track the file by git then we have to add that file into staging area
+git add file_name or git add .(to add all file)
