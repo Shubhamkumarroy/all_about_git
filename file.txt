@@ -22,3 +22,7 @@ for without staging to commit the use this command
 using this git commit -a -m "added line 21 and 22" (-a means it will skip the staging area)
 
 using this git diff -> it will tell you what is changed in file
+
+when you want to delete file for example you have made a file that store password but definitely you are not gonna to send this file into deployment so you
+have to delete that file but if you delete it manually then it will be deleted from your working directory but in .git file still there will be that file 
+to delete file from there
