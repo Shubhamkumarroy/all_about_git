@@ -19,4 +19,4 @@ whatever we do, that will be in working directory so we have to send in staging 
 
 everytime you change ,add into staging area then do commit
 for without staging to commit the use this command
-git commit -a -m "added line 21 and 22"
+git commit -a -m "added line 21 and 22" (-a means it will skip the staging area)
