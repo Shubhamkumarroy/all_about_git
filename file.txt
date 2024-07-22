@@ -26,3 +26,9 @@ using this git diff -> it will tell you what is changed in file
 when you want to delete file for example you have made a file that store password but definitely you are not gonna to send this file into deployment so you
 have to delete that file but if you delete it manually then it will be deleted from your working directory but in .git file still there will be that file 
 to delete file from there "git rm --cached file.txt"
+to copy or clone the project git clone link
+
+3 step to add your project remotely
+git branch -m main
+git remote add origin "ssh key"
+git push -u origin main
